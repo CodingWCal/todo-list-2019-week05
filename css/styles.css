@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    color: white;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+body{
+    background-image: linear-gradient(darkblue, lightblue);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
